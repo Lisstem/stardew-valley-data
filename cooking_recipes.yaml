@@ -22,13 +22,13 @@ data:
     image: https://stardewcommunitywiki.com/FILE:Salad.png
     wiki-link: https://stardewcommunitywiki.com/Salad
     source: Emily (Mail - 3+ hearts)
-  Cheese Cauli.:
+  Cheese Cauliflower:
     ingredients:
       Cauliflower: 1
       Cheese: 1
-    image: https://stardewcommunitywiki.com/FILE:Cheese_Cauli..png
-    wiki-link: https://stardewcommunitywiki.com/Cheese_Cauli.
-    source:
+    image: https://stardewcommunitywiki.com/FILE:Cheese_Cauliflower.png
+    wiki-link: https://stardewcommunitywiki.com/Cheese_Cauliflower
+    source: Pam (Mail - 3+ hearts)
   Baked Fish:
     ingredients:
       Sunfish: 1
@@ -268,13 +268,13 @@ data:
     image: https://stardewcommunitywiki.com/FILE:Red_Plate.png
     wiki-link: https://stardewcommunitywiki.com/Red_Plate
     source: Emily (Mail - 7+ hearts)
-  Eggplant Parm.:
+  Eggplant Parmesan:
     ingredients:
       Eggplant: 1
       Tomato: 1
-    image: https://stardewcommunitywiki.com/FILE:Eggplant_Parm..png
-    wiki-link: https://stardewcommunitywiki.com/Eggplant_Parm.
-    source:
+    image: https://stardewcommunitywiki.com/FILE:Eggplant_Parmesan.png
+    wiki-link: https://stardewcommunitywiki.com/Eggplant_Parmesan
+    source: Lewis (Mail - 7+ hearts)
   Rice Pudding:
     ingredients:
       Milk (any): 1
@@ -321,13 +321,13 @@ data:
     image: https://stardewcommunitywiki.com/FILE:Super_Meal.png
     wiki-link: https://stardewcommunitywiki.com/Super_Meal
     source: Kent (Mail - 7+ hearts)
-  Cran. Sauce:
+  Cranberry Sauce:
     ingredients:
       Cranberries: 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Cran._Sauce.png
-    wiki-link: https://stardewcommunitywiki.com/Cran._Sauce
-    source:
+    image: https://stardewcommunitywiki.com/FILE:Cranberry_Sauce.png
+    wiki-link: https://stardewcommunitywiki.com/Cranberry_Sauce
+    source: Gus (Mail - 7+ hearts)
   Stuffing:
     ingredients:
       Bread: 1
