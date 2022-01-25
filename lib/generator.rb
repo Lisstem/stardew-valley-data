@@ -39,7 +39,7 @@ module StardewValley
     end
 
     private
-    COMPILER_KEYS = %i[target keys no_transform depencies]
+    COMPILER_KEYS = %i[target keys no_transform dependencies]
 
     def dependencies=(value)
       value ||= []
