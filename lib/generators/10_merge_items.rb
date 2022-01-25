@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
-module StardewValley
+module MergeItems
+  extend StardewValley
+
   class << self
     @additional_data = nil
 
@@ -15,7 +17,7 @@ module StardewValley
     end
   end
 
-  generator('tmp/items.yaml') do |id, data|
+  generator('tmp/items.yaml', dependencies: %w[tmp/additional_item_data.yaml]) do |id, data|
     merge(id, data)
     data['wiki-link'] ||= wiki_link(data['name']) unless data.delete('no-wiki')
     data

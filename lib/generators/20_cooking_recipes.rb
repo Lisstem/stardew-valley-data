@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
-module StardewValley
+module CookingRecipes
+  extend StardewValley
+
   class << self
     def q(day, season, year)
       "The Queen of Sauce (#{day} #{SEASONS[season - 1]}, Year #{year})"

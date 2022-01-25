@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
-module StardewValley
+module Item
+  extend StardewValley
+
   CATEGORIES = { -2 => 'Mineral (Gem)',  -4 => 'Fish', -5 => 'Animal Product (Egg)',  -6 => 'Animal Product (Milk)',
                -7 => 'Cooking', -8 => 'Crafting', -9 => 'Big Craftable', -12 => 'Mineral',
                -14 => 'Animal Product (Meat)', -15 => 'Resource (Metal)', -16 => 'Resource (Building)',
