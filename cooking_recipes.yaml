@@ -5,14 +5,12 @@ data:
     source: Upgraded farmhouse
     ingredients:
       Egg (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Fried_Egg.png
     wiki-link: https://stardewcommunitywiki.com/Fried_Egg
   Omelet:
     source: The Queen of Sauce (28 , Year 1) or Stardrop Saloon for 100g
     ingredients:
       Egg (any): 1
       Milk (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Omelet.png
     wiki-link: https://stardewcommunitywiki.com/Omelet
   Salad:
     source: Emily (Mail - 3+ hearts)
@@ -20,14 +18,12 @@ data:
       Leek: 1
       Dandelion: 1
       Vinegar: 1
-    image: https://stardewcommunitywiki.com/FILE:Salad.png
     wiki-link: https://stardewcommunitywiki.com/Salad
   Cheese Cauliflower:
     source: Pam (Mail - 3+ hearts)
     ingredients:
       Cauliflower: 1
       Cheese: 1
-    image: https://stardewcommunitywiki.com/FILE:Cheese_Cauliflower.png
     wiki-link: https://stardewcommunitywiki.com/Cheese_Cauliflower
   Baked Fish:
     source: The Queen of Sauce (7 Summer, Year 1)
@@ -35,7 +31,6 @@ data:
       Sunfish: 1
       Bream: 1
       Wheat Flour: 1
-    image: https://stardewcommunitywiki.com/FILE:Baked_Fish.png
     wiki-link: https://stardewcommunitywiki.com/Baked_Fish
   Parsnip Soup:
     source: Caroline (Mail - 3+ hearts)
@@ -43,14 +38,12 @@ data:
       Parsnip: 1
       Milk (any): 1
       Vinegar: 1
-    image: https://stardewcommunitywiki.com/FILE:Parsnip_Soup.png
     wiki-link: https://stardewcommunitywiki.com/Parsnip_Soup
   Vegetable Stew:
     source: Caroline (Mail - 7+ hearts)
     ingredients:
       Tomato: 1
       Beet: 1
-    image: https://stardewcommunitywiki.com/FILE:Vegetable_Stew.png
     wiki-link: https://stardewcommunitywiki.com/Vegetable_Stew
   Complete Breakfast:
     source: The Queen of Sauce (21 Spring, Year 2)
@@ -59,7 +52,6 @@ data:
       Milk (any): 1
       Hashbrowns: 1
       Pancakes: 1
-    image: https://stardewcommunitywiki.com/FILE:Complete_Breakfast.png
     wiki-link: https://stardewcommunitywiki.com/Complete_Breakfast
   Fried Calamari:
     source: Jodi (Mail - 3+ hearts)
@@ -67,7 +59,6 @@ data:
       Squid: 1
       Wheat Flour: 1
       Oil: 1
-    image: https://stardewcommunitywiki.com/FILE:Fried_Calamari.png
     wiki-link: https://stardewcommunitywiki.com/Fried_Calamari
   Strange Bun:
     source: Shane (Mail - 7+ hearts)
@@ -75,7 +66,6 @@ data:
       Wheat Flour: 1
       Periwinkle: 1
       Void Mayonnaise: 1
-    image: https://stardewcommunitywiki.com/FILE:Strange_Bun.png
     wiki-link: https://stardewcommunitywiki.com/Strange_Bun
   Lucky Lunch:
     source: The Queen of Sauce (28 Spring, Year 2)
@@ -83,7 +73,6 @@ data:
       Sea Cucumber: 1
       Tortilla: 1
       Blue Jazz: 1
-    image: https://stardewcommunitywiki.com/FILE:Lucky_Lunch.png
     wiki-link: https://stardewcommunitywiki.com/Lucky_Lunch
   Fried Mushroom:
     source: Demetrius (Mail - 3+ hearts)
@@ -91,7 +80,6 @@ data:
       Common Mushroom: 1
       Morel: 1
       Oil: 1
-    image: https://stardewcommunitywiki.com/FILE:Fried_Mushroom.png
     wiki-link: https://stardewcommunitywiki.com/Fried_Mushroom
   Pizza:
     source: The Queen of Sauce (7 Spring, Year 2) or Stardrop Saloon for 150g
@@ -99,40 +87,34 @@ data:
       Wheat Flour: 1
       Tomato: 1
       Cheese: 1
-    image: https://stardewcommunitywiki.com/FILE:Pizza.png
     wiki-link: https://stardewcommunitywiki.com/Pizza
   Bean Hotpot:
     source: Clint (Mail - 7+ hearts)
     ingredients:
       Green Bean: 2
-    image: https://stardewcommunitywiki.com/FILE:Bean_Hotpot.png
     wiki-link: https://stardewcommunitywiki.com/Bean_Hotpot
   Glazed Yams:
     source: The Queen of Sauce (21 Fall, Year 1)
     ingredients:
       Yam: 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Glazed_Yams.png
     wiki-link: https://stardewcommunitywiki.com/Glazed_Yams
   Carp Surprise:
     source: The Queen of Sauce (7 Summer, Year 2)
     ingredients:
       Carp: 4
-    image: https://stardewcommunitywiki.com/FILE:Carp_Surprise.png
     wiki-link: https://stardewcommunitywiki.com/Carp_Surprise
   Hashbrowns:
     source: The Queen of Sauce (14 Spring, Year 2) or Stardrop Saloon for 150g
     ingredients:
       Potato: 1
       Oil: 1
-    image: https://stardewcommunitywiki.com/FILE:Hashbrowns.png
     wiki-link: https://stardewcommunitywiki.com/Hashbrowns
   Pancakes:
     source: The Queen of Sauce (14 Spring, Year 2) or Stardrop Saloon for 100g
     ingredients:
       Wheat Flour: 1
       Egg (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Pancakes.png
     wiki-link: https://stardewcommunitywiki.com/Pancakes
   Salmon Dinner:
     source: Gus (Mail - 3+ hearts)
@@ -140,7 +122,6 @@ data:
       Salmon: 1
       Amaranth: 1
       Kale: 1
-    image: https://stardewcommunitywiki.com/FILE:Salmon_Dinner.png
     wiki-link: https://stardewcommunitywiki.com/Salmon_Dinner
   Fish Taco:
     source: Linus (Mail - 7+ hearts)
@@ -149,7 +130,6 @@ data:
       Tortilla: 1
       Red Cabbage: 1
       Mayonnaise: 1
-    image: https://stardewcommunitywiki.com/FILE:Fish_Taco.png
     wiki-link: https://stardewcommunitywiki.com/Fish_Taco
   Crispy Bass:
     source: Kent (Mail - 3+ hearts)
@@ -157,20 +137,17 @@ data:
       Largemouth Bass: 1
       Wheat Flour: 1
       Oil: 1
-    image: https://stardewcommunitywiki.com/FILE:Crispy_Bass.png
     wiki-link: https://stardewcommunitywiki.com/Crispy_Bass
   Pepper Poppers:
     source: Shane (Mail - 3+ hearts)
     ingredients:
       Hot Pepper: 1
       Cheese: 1
-    image: https://stardewcommunitywiki.com/FILE:Pepper_Poppers.png
     wiki-link: https://stardewcommunitywiki.com/Pepper_Poppers
   Bread:
     source: The Queen of Sauce (28 Summer, Year 1) or Stardrop Saloon for 100g
     ingredients:
       Wheat Flour: 1
-    image: https://stardewcommunitywiki.com/FILE:Bread.png
     wiki-link: https://stardewcommunitywiki.com/Bread
   Tom Kha Soup:
     source: Sandy (Mail - 7+ hearts)
@@ -178,14 +155,12 @@ data:
       Coconut: 1
       Shrimp: 1
       Common Mushroom: 1
-    image: https://stardewcommunitywiki.com/FILE:Tom_Kha_Soup.png
     wiki-link: https://stardewcommunitywiki.com/Tom_Kha_Soup
   Trout Soup:
     source: The Queen of Sauce (14 Fall, Year 1)
     ingredients:
       Rainbow Trout: 1
       Green Algae: 1
-    image: https://stardewcommunitywiki.com/FILE:Trout_Soup.png
     wiki-link: https://stardewcommunitywiki.com/Trout_Soup
   Chocolate Cake:
     source: The Queen of Sauce (14 Winter, Year 1)
@@ -193,7 +168,6 @@ data:
       Wheat Flour: 1
       Sugar: 1
       Egg (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Chocolate_Cake.png
     wiki-link: https://stardewcommunitywiki.com/Chocolate_Cake
   Pink Cake:
     source: The Queen of Sauce (21 Summer, Year 2)
@@ -202,7 +176,6 @@ data:
       Wheat Flour: 1
       Sugar: 1
       Egg (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Pink_Cake.png
     wiki-link: https://stardewcommunitywiki.com/Pink_Cake
   Rhubarb Pie:
     source: Marnie (Mail - 7+ hearts)
@@ -210,7 +183,6 @@ data:
       Rhubarb: 1
       Wheat Flour: 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Rhubarb_Pie.png
     wiki-link: https://stardewcommunitywiki.com/Rhubarb_Pie
   Cookies:
     source: Evelyn (4-heart event)
@@ -218,34 +190,29 @@ data:
       Wheat Flour: 1
       Sugar: 1
       Egg (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Cookies.png
     wiki-link: https://stardewcommunitywiki.com/Cookies
   Spaghetti:
     source: Lewis (Mail - 3+ hearts)
     ingredients:
       Wheat Flour: 1
       Tomato: 1
-    image: https://stardewcommunitywiki.com/FILE:Spaghetti.png
     wiki-link: https://stardewcommunitywiki.com/Spaghetti
   Fried Eel:
     source: George (Mail - 3+ hearts)
     ingredients:
       Eel: 1
       Oil: 1
-    image: https://stardewcommunitywiki.com/FILE:Fried_Eel.png
     wiki-link: https://stardewcommunitywiki.com/Fried_Eel
   Spicy Eel:
     source: George (Mail - 7+ hearts)
     ingredients:
       Eel: 1
       Hot Pepper: 1
-    image: https://stardewcommunitywiki.com/FILE:Spicy_Eel.png
     wiki-link: https://stardewcommunitywiki.com/Spicy_Eel
   Sashimi:
     source: Linus (Mail - 3+ hearts)
     ingredients:
       Fish (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Sashimi.png
     wiki-link: https://stardewcommunitywiki.com/Sashimi
   Maki Roll:
     source: The Queen of Sauce (21 Spring, Year 1) or Stardrop Saloon for 300g
@@ -253,27 +220,23 @@ data:
       Fish (any): 1
       Seaweed: 1
       Rice: 1
-    image: https://stardewcommunitywiki.com/FILE:Maki_Roll.png
     wiki-link: https://stardewcommunitywiki.com/Maki_Roll
   Tortilla:
     source: The Queen of Sauce (7 Fall, Year 1) or Stardrop Saloon for 100g
     ingredients:
       Corn: 1
-    image: https://stardewcommunitywiki.com/FILE:Tortilla.png
     wiki-link: https://stardewcommunitywiki.com/Tortilla
   Red Plate:
     source: Emily (Mail - 7+ hearts)
     ingredients:
       Red Cabbage: 1
       Radish: 1
-    image: https://stardewcommunitywiki.com/FILE:Red_Plate.png
     wiki-link: https://stardewcommunitywiki.com/Red_Plate
   Eggplant Parmesan:
     source: Lewis (Mail - 7+ hearts)
     ingredients:
       Eggplant: 1
       Tomato: 1
-    image: https://stardewcommunitywiki.com/FILE:Eggplant_Parmesan.png
     wiki-link: https://stardewcommunitywiki.com/Eggplant_Parmesan
   Rice Pudding:
     source: Evelyn (Mail - 7+ hearts)
@@ -281,14 +244,12 @@ data:
       Milk (any): 1
       Sugar: 1
       Rice: 1
-    image: https://stardewcommunitywiki.com/FILE:Rice_Pudding.png
     wiki-link: https://stardewcommunitywiki.com/Rice_Pudding
   Ice Cream:
     source: Jodi (Mail - 7+ hearts)
     ingredients:
       Milk (any): 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Ice_Cream.png
     wiki-link: https://stardewcommunitywiki.com/Ice_Cream
   Blueberry Tart:
     source: Pierre (Mail - 3+ hearts)
@@ -297,21 +258,18 @@ data:
       Wheat Flour: 1
       Sugar: 1
       Egg (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Blueberry_Tart.png
     wiki-link: https://stardewcommunitywiki.com/Blueberry_Tart
   Autumn's Bounty:
     source: Demetrius (Mail - 7+ hearts)
     ingredients:
       Yam: 1
       Pumpkin: 1
-    image: https://stardewcommunitywiki.com/FILE:Autumn's_Bounty.png
     wiki-link: https://stardewcommunitywiki.com/Autumn's_Bounty
   Pumpkin Soup:
     source: Robin (Mail - 7+ hearts)
     ingredients:
       Pumpkin: 1
       Milk (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Pumpkin_Soup.png
     wiki-link: https://stardewcommunitywiki.com/Pumpkin_Soup
   Super Meal:
     source: Kent (Mail - 7+ hearts)
@@ -319,14 +277,12 @@ data:
       Bok Choy: 1
       Cranberries: 1
       Artichoke: 1
-    image: https://stardewcommunitywiki.com/FILE:Super_Meal.png
     wiki-link: https://stardewcommunitywiki.com/Super_Meal
   Cranberry Sauce:
     source: Gus (Mail - 7+ hearts)
     ingredients:
       Cranberries: 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Cranberry_Sauce.png
     wiki-link: https://stardewcommunitywiki.com/Cranberry_Sauce
   Stuffing:
     source: Pam (Mail - 7+ hearts)
@@ -334,14 +290,12 @@ data:
       Bread: 1
       Cranberries: 1
       Hazelnut: 1
-    image: https://stardewcommunitywiki.com/FILE:Stuffing.png
     wiki-link: https://stardewcommunitywiki.com/Stuffing
   Farmer's Lunch:
     source: Farming Level 3
     ingredients:
       Omelet: 1
       Parsnip: 1
-    image: https://stardewcommunitywiki.com/FILE:Farmer's_Lunch.png
     wiki-link: https://stardewcommunitywiki.com/Farmer's_Lunch
   Survival Burger:
     source: Foraging Level 2
@@ -349,14 +303,12 @@ data:
       Bread: 1
       Cave Carrot: 1
       Eggplant: 1
-    image: https://stardewcommunitywiki.com/FILE:Survival_Burger.png
     wiki-link: https://stardewcommunitywiki.com/Survival_Burger
   Dish o' The Sea:
     source: Fishing Level 3
     ingredients:
       Sardine: 2
       Hashbrowns: 1
-    image: https://stardewcommunitywiki.com/FILE:Dish_o'_The_Sea.png
     wiki-link: https://stardewcommunitywiki.com/Dish_o'_The_Sea
   Miner's Treat:
     source: Mining Level 3
@@ -364,20 +316,17 @@ data:
       Cave Carrot: 2
       Sugar: 1
       Milk (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Miner's_Treat.png
     wiki-link: https://stardewcommunitywiki.com/Miner's_Treat
   Roots Platter:
     source: Combat Level 3
     ingredients:
       Cave Carrot: 1
       Winter Root: 1
-    image: https://stardewcommunitywiki.com/FILE:Roots_Platter.png
     wiki-link: https://stardewcommunitywiki.com/Roots_Platter
   Triple Shot Espresso:
     source: Stardrop Saloon for 5000g
     ingredients:
       Coffee: 3
-    image: https://stardewcommunitywiki.com/FILE:Triple_Shot_Espresso.png
     wiki-link: https://stardewcommunitywiki.com/Triple_Shot_Espresso
   Seafoam Pudding:
     source: Fishing Level 9
@@ -385,19 +334,16 @@ data:
       Flounder: 1
       Midnight Carp: 1
       Squid Ink: 1
-    image: https://stardewcommunitywiki.com/FILE:Seafoam_Pudding.png
     wiki-link: https://stardewcommunitywiki.com/Seafoam_Pudding
   Algae Soup:
     source: Clint (Mail - 3+ hearts)
     ingredients:
       Green Algae: 4
-    image: https://stardewcommunitywiki.com/FILE:Algae_Soup.png
     wiki-link: https://stardewcommunitywiki.com/Algae_Soup
   Pale Broth:
     source: Marnie (Mail - 3+ hearts)
     ingredients:
       White Algae: 2
-    image: https://stardewcommunitywiki.com/FILE:Pale_Broth.png
     wiki-link: https://stardewcommunitywiki.com/Pale_Broth
   Plum Pudding:
     source: The Queen of Sauce (7 Winter, Year 1)
@@ -405,14 +351,12 @@ data:
       Wild Plum: 2
       Wheat Flour: 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Plum_Pudding.png
     wiki-link: https://stardewcommunitywiki.com/Plum_Pudding
   Artichoke Dip:
     source: The Queen of Sauce (28 Fall, Year 1)
     ingredients:
       Artichoke: 1
       Milk (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Artichoke_Dip.png
     wiki-link: https://stardewcommunitywiki.com/Artichoke_Dip
   Stir Fry:
     source: The Queen of Sauce (7 Spring, Year 1)
@@ -421,13 +365,11 @@ data:
       Common Mushroom: 1
       Kale: 1
       Oil: 1
-    image: https://stardewcommunitywiki.com/FILE:Stir_Fry.png
     wiki-link: https://stardewcommunitywiki.com/Stir_Fry
   Roasted Hazelnuts:
     source: The Queen of Sauce (28 Summer, Year 2)
     ingredients:
       Hazelnut: 3
-    image: https://stardewcommunitywiki.com/FILE:Roasted_Hazelnuts.png
     wiki-link: https://stardewcommunitywiki.com/Roasted_Hazelnuts
   Pumpkin Pie:
     source: The Queen of Sauce (21 Winter, Year 1)
@@ -436,7 +378,6 @@ data:
       Wheat Flour: 1
       Milk (any): 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Pumpkin_Pie.png
     wiki-link: https://stardewcommunitywiki.com/Pumpkin_Pie
   Radish Salad:
     source: The Queen of Sauce (21 Spring, Year 1)
@@ -444,7 +385,6 @@ data:
       Oil: 1
       Vinegar: 1
       Radish: 1
-    image: https://stardewcommunitywiki.com/FILE:Radish_Salad.png
     wiki-link: https://stardewcommunitywiki.com/Radish_Salad
   Fruit Salad:
     source: The Queen of Sauce (7 Fall, Year 2)
@@ -452,7 +392,6 @@ data:
       Blueberry: 1
       Melon: 1
       Apricot: 1
-    image: https://stardewcommunitywiki.com/FILE:Fruit_Salad.png
     wiki-link: https://stardewcommunitywiki.com/Fruit_Salad
   Blackberry Cobbler:
     source: The Queen of Sauce (14 Fall, Year 2)
@@ -460,7 +399,6 @@ data:
       Blackberry: 2
       Sugar: 1
       Wheat Flour: 1
-    image: https://stardewcommunitywiki.com/FILE:Blackberry_Cobbler.png
     wiki-link: https://stardewcommunitywiki.com/Blackberry_Cobbler
   Cranberry Candy:
     source: The Queen of Sauce (28 Winter, Year 1)
@@ -468,7 +406,6 @@ data:
       Cranberries: 1
       Apple: 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Cranberry_Candy.png
     wiki-link: https://stardewcommunitywiki.com/Cranberry_Candy
   Bruschetta:
     source: The Queen of Sauce (21 Winter, Year 2)
@@ -476,7 +413,6 @@ data:
       Bread: 1
       Oil: 1
       Tomato: 1
-    image: https://stardewcommunitywiki.com/FILE:Bruschetta.png
     wiki-link: https://stardewcommunitywiki.com/Bruschetta
   Coleslaw:
     source: The Queen of Sauce (14 Spring, Year 1)
@@ -484,7 +420,6 @@ data:
       Red Cabbage: 1
       Vinegar: 1
       Mayonnaise: 1
-    image: https://stardewcommunitywiki.com/FILE:Coleslaw.png
     wiki-link: https://stardewcommunitywiki.com/Coleslaw
   Fiddlehead Risotto:
     source: The Queen of Sauce (28 Fall, Year 2)
@@ -492,7 +427,6 @@ data:
       Oil: 1
       Fiddlehead Fern: 1
       Garlic: 1
-    image: https://stardewcommunitywiki.com/FILE:Fiddlehead_Risotto.png
     wiki-link: https://stardewcommunitywiki.com/Fiddlehead_Risotto
   Poppyseed Muffin:
     source: The Queen of Sauce (7 Winter, Year 2)
@@ -500,14 +434,12 @@ data:
       Poppy: 1
       Wheat Flour: 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Poppyseed_Muffin.png
     wiki-link: https://stardewcommunitywiki.com/Poppyseed_Muffin
   Chowder:
     source: Willy (Mail - 3+ hearts)
     ingredients:
       Clam: 1
       Milk (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Chowder.png
     wiki-link: https://stardewcommunitywiki.com/Chowder
   Fish Stew:
     source: Willy (Mail - 7+ hearts)
@@ -516,21 +448,18 @@ data:
       Mussel: 1
       Periwinkle: 1
       Tomato: 1
-    image: https://stardewcommunitywiki.com/FILE:Fish_Stew.png
     wiki-link: https://stardewcommunitywiki.com/Fish_Stew
   Escargot:
     source: Willy (Mail - 5+ hearts)
     ingredients:
       Snail: 1
       Garlic: 1
-    image: https://stardewcommunitywiki.com/FILE:Escargot.png
     wiki-link: https://stardewcommunitywiki.com/Escargot
   Lobster Bisque:
     source: The Queen of Sauce (14 Winter, Year 2) or Willy (Mail - 9+ hearts)
     ingredients:
       Lobster: 1
       Milk (any): 1
-    image: https://stardewcommunitywiki.com/FILE:Lobster_Bisque.png
     wiki-link: https://stardewcommunitywiki.com/Lobster_Bisque
   Maple Bar:
     source: The Queen of Sauce (14 Summer, Year 2)
@@ -538,7 +467,6 @@ data:
       Maple Syrup: 1
       Sugar: 1
       Wheat Flour: 1
-    image: https://stardewcommunitywiki.com/FILE:Maple_Bar.png
     wiki-link: https://stardewcommunitywiki.com/Maple_Bar
   Crab Cakes:
     source: The Queen of Sauce (21 Fall, Year 2)
@@ -547,7 +475,6 @@ data:
       Wheat Flour: 1
       Egg (any): 1
       Oil: 1
-    image: https://stardewcommunitywiki.com/FILE:Crab_Cakes.png
     wiki-link: https://stardewcommunitywiki.com/Crab_Cakes
   Shrimp Cocktail:
     source: The Queen of Sauce (28 Fall, Year 2)
@@ -555,14 +482,12 @@ data:
       Shrimp: 1
       Tomato: 1
       Wild Horseradish: 1
-    image: https://stardewcommunitywiki.com/FILE:Shrimp_Cocktail.png
     wiki-link: https://stardewcommunitywiki.com/Shrimp_Cocktail
   Ginger Ale:
     source: Dwarf Shop in Volcano on Ginger Island for 1,000g
     ingredients:
       Ginger: 3
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Ginger_Ale.png
     wiki-link: https://stardewcommunitywiki.com/Ginger_Ale
   Banana Pudding:
     source: Island Trader for 30 Bone Fragments
@@ -570,7 +495,6 @@ data:
       Banana: 1
       Milk (any): 1
       Sugar: 1
-    image: https://stardewcommunitywiki.com/FILE:Banana_Pudding.png
     wiki-link: https://stardewcommunitywiki.com/Banana_Pudding
   Mango Sticky Rice:
     source: Leo (Mail - 7+ hearts)
@@ -578,13 +502,11 @@ data:
       Mango: 1
       Coconut: 1
       Rice: 1
-    image: https://stardewcommunitywiki.com/FILE:Mango_Sticky_Rice.png
     wiki-link: https://stardewcommunitywiki.com/Mango_Sticky_Rice
   Poi:
     source: Leo (Mail - 3+ hearts)
     ingredients:
       Taro Root: 4
-    image: https://stardewcommunitywiki.com/FILE:Poi.png
     wiki-link: https://stardewcommunitywiki.com/Poi
   Tropical Curry:
     source: Ginger Island Resort
@@ -592,7 +514,6 @@ data:
       Coconut: 1
       Pineapple: 1
       Hot Pepper: 1
-    image: https://stardewcommunitywiki.com/FILE:Tropical_Curry.png
     wiki-link: https://stardewcommunitywiki.com/Tropical_Curry
   Squid Ink Ravioli:
     source: Combat Level 9
@@ -600,5 +521,4 @@ data:
       Squid Ink: 1
       Wheat Flour: 1
       Tomato: 1
-    image: https://stardewcommunitywiki.com/FILE:Squid_Ink_Ravioli.png
     wiki-link: https://stardewcommunitywiki.com/Squid_Ink_Ravioli
