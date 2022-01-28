@@ -6,7 +6,7 @@ module WikiDownload
 
   class << self
     def data_function
-      download_html('https://stardewvalleywiki.com/Modding:Object_data/Sprites').to_yaml
+      download_html('https://stardewvalleywiki.com/Modding:Items/Object_sprites').to_yaml
     end
 
     private
