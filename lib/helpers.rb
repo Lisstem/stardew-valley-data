@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
+require_relative 'string'
+
 module StardewValley
-  WIKI_URL = 'https://stardewcommunitywiki.com'
+  WIKI_URL = 'https://stardewvalleywiki.com'
   SEASONS = %w[Spring Summer Fall Winter]
 
 
